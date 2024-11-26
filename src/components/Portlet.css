@@ -1,0 +1,39 @@
+.container {
+    display: grid;
+    grid-template-columns: 30% 30%;
+    gap: 15px;
+    justify-content: center;
+    background-image: radial-gradient( #FFF 1%, #2eb3f6 30%);
+    align-content: baseline;
+}
+
+.portletContainer {
+    margin: 0 15px;
+    padding: 15px;
+    background-color: #FFFFFF;
+}
+
+.portletOuterebox {
+    border-radius: 10px;
+    border: 3px solid #2eb3f6;
+}
+
+.portletInnerBox {
+    margin: 15px;
+    background-image: radial-gradient( #FFF 1%, #2eb3f6 30%);
+    height: 70px;
+}
+
+.portletTitle {
+    text-align: left;
+    margin-left: 15px;
+    font-weight: 700;
+}
+
+.container:last-child {
+    width: 100%;
+}
+
+.fullWidth {
+    grid-column: 1/3;
+}

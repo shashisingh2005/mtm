@@ -1,0 +1,29 @@
+{
+    "data":[
+        {
+        "id": 1,
+        "link": "",
+        "name": "Counter Party Import Detail"
+        },
+        {
+            "id": 2,
+            "name": "Import Log",
+            "link": ""
+        },
+        {
+            "id": 3,
+            "name": "Log Display UI",
+            "link": ""
+        },
+        {
+            "id": 4,
+            "name": "Mail Subscription",
+            "link": ""
+        },
+        {
+            "id": 5,
+            "name": "Mapping UI",
+            "link": ""
+        }
+    ]
+}
